@@ -1,0 +1,14 @@
+.header__text {
+    text-decoration: none;
+    color: #FFFFFF;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 1.22;
+    margin: auto 0 auto 24px;
+}
+
+@media screen and (max-width: 880px) {
+    .header__text {
+        margin-right: 27px;
+    }
+}

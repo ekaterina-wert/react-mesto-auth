@@ -1,0 +1,14 @@
+.login__text {
+    /* display: block;
+    font-family: inherit; */
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 1.21;
+    background-color: rgba(0, 0, 0, 0);
+    color: #CCC;
+    border: none;
+    margin: 17px 0 0;
+    padding: 13px 0;
+    width: 100%;
+    border-bottom: 2px solid #CCC;
+}
