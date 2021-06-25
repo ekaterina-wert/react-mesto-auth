@@ -140,7 +140,7 @@ function App() {
                 closeAllPopups();
             })
             .catch((err) => {
-                console.log('Ошибка при обновлении юзердата', err)
+                console.log("Ошибка при обновлении юзердата", err)
             });
     };
 
